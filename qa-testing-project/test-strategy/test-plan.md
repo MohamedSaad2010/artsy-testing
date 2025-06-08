@@ -30,9 +30,9 @@ This document outlines the test plan for the ArtsySilver e-commerce platform. It
 ## 🔹 5. Resources
 | Role               | Name        |
 |--------------------|-------------|
-| QA Engineer        | ya king 👑   |
-| Automation Tester  | ya king 👑   |
-| API Tester         | ya king 👑   |
+| QA Engineer        |  Mohamed Saad |
+| Automation Tester  |  Mohamed Saad |
+| API Tester         |  Mohamed Saad |
 
 ## 🔹 6. Entry & Exit Criteria
 
