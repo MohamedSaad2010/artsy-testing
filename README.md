@@ -55,7 +55,7 @@ java BuyItNow`
 
 This project includes full QA documentation:
 
-- 📄 [Test Plan](test-strategy/test-plan.md)
-- 📄 [Test Strategy](test-strategy/test-strategy.md)
+- 📄 [Test Plan](qa-testing-project/test-strategy/test-plan.md)
+- 📄 [Test Strategy](qa-testing-project/test-strategy/test-strategy.md)
 
   
