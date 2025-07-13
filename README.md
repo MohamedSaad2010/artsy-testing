@@ -1,4 +1,4 @@
-# 🧪 QA Testing Project – ArtsySilver E-commerce Website
+#  QA Testing Project – ArtsySilver E-commerce Website
 
 This repository contains a full Quality Assurance Testing project for the **ArtsySilver** website. The project includes:
 
